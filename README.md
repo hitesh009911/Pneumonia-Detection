@@ -2,6 +2,10 @@
 
 This repository contains a Python application designed for pneumonia detection using machine learning models. The app utilizes the Tkinter library for a user-friendly graphical interface and provides functionalities for model management, image uploads, and model-based predictions. It includes multiple pre-trained models for pneumonia detection: CNN, MobileNetV2, and VGG16.
 
+
+## Screenshot
+![Dashboard Screenshot](Pneumonia.png)
+
 ## Features
 
 - **Image Upload**: Upload an image of the chest X-ray for detection.
@@ -9,6 +13,7 @@ This repository contains a Python application designed for pneumonia detection u
 - **Model Management**: Add, remove, and select models for prediction.
 - **Model Saving**: Models can be saved in Python (.py) files for easy reuse and management.
 - **Database Integration**: Ability to connect with a database for saving model predictions or image metadata.
+
 
 ## Requirements
 
