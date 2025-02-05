@@ -3,7 +3,7 @@
 This repository contains a Python application designed for pneumonia detection using machine learning models. The app utilizes the Tkinter library for a user-friendly graphical interface and provides functionalities for model management, image uploads, and model-based predictions. It includes multiple pre-trained models for pneumonia detection: CNN, MobileNetV2, and VGG16.
 
 ## Database 
-The images which required are in Kaggle in below link :
+The images which required are in Kaggle :
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Screenshot
